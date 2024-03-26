@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AayushKumarSingh
-<!-- - 👀 I’m interested in ... -->
-- 🌱 I’m currently learning Machine Learning through TensorFlow
+ - 👀 I’m interested in Data Science and DevOPs
+- 🌱 I’m currently learning Django for Deployment of Machine learning models in Web.
 <!-- - 💞️ I’m looking to collaborate on ... -->
 - 📫reach me at aayushkumarsingh2002@gmail.com
 
